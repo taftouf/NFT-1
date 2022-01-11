@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Maltipoo"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "the monkey",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQ2vFedwYfk466KEz2zT9CZ7E8xJmBDscwVihB4hDqDxV",
+    "name": "the monkey boss"
+  }
+  

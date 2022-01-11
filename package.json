@@ -1,0 +1,29 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "description": "My first NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/taftouf/NFT-1.git"
+  },
+  "author": "Taftouf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taftouf/NFT-1/issues"
+  },
+  "homepage": "https://github.com/taftouf/NFT-1#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "ethers": "^5.5.3",
+    "hardhat": "^2.8.2"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9",
+    "@openzeppelin/contracts": "^4.4.1",
+    "dotenv": "^11.0.0"
+  }
+}
