@@ -5,4 +5,4 @@ https://ropsten.etherscan.io/tx/0x680efd91467fc549b43596ca50d51ff5b3231d5a74e010
 Contract: 0x3cb1ee4703fc95b54e02bd25f701fd1b80b0a1d5
 ID : 1
 
-![NFT Image](https://drive.google.com/file/d/1DcI2ABuiiEfhrEoNkvh5F_xqBUGnb30B/view?usp=sharing)
+![NFT Image](https://usaupload.com/5H0k/Nft-1.jpeg)
