@@ -6,4 +6,4 @@ Contract: 0x3cb1ee4703fc95b54e02bd25f701fd1b80b0a1d5
 ID : 1
 
 
-![the final result](https://github.com/taftouf/NFT-1/blob/main/nft-1.jpeg?raw=true)
+![the final result](https://github.com/taftouf/NFT-1/main/nft-1.jpeg?raw=true)
