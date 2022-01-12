@@ -6,4 +6,6 @@ Contract: 0x3cb1ee4703fc95b54e02bd25f701fd1b80b0a1d5
 ID : 1
 
 
-![the final result](https://github.com/taftouf/NFT-1/blob/main/Nft-1.jpeg?raw=true)
+<h1> The final result </h1>
+<img src="https://github.com/taftouf/NFT-1/blob/main/Nft-1.jpeg" alt="the final result" width="500" height="500">
+ 
